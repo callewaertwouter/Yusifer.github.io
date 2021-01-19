@@ -1,0 +1,181 @@
+{
+    "planets": [
+        {
+            "name": "Earth",
+            "image": "earth.jpg",
+            "moons": 1,
+            "diameter": 12756,
+            "distInMillionsKm": {
+                "fromSun": 149.60,
+                "fromEarth": 0
+            },
+            "flybys": "none",
+            "description": "Earth is the third planet from the Sun and is the largest of the terrestrial planets. The Earth is the only planet in our solar system not to be named after a Greek or Roman deity. The Earth was formed approximately 4.54 billion years ago and is the only known planet to support life."
+        },
+        {
+            "name": "Jupiter",
+            "image": "jupiter.jpg",
+            "moons": 67,
+            "diameter": 142984,
+            "distInMillionsKm": {
+                "fromSun": 778.3,
+                "fromEarth": 628.7
+            },
+            "flybys": ["Voyager 1", "Voyager 2"],
+            "description": "The planet Jupiter is the fifth planet out from the Sun, and is two and a half times more massive than all the other planets in the solar system combined. It is made primarily of gases and is therefore known as a “gas giant”."
+        },
+        {
+            "name": "Mars",
+            "image": "mars.jpg",
+            "moons": 0,
+            "diameter": 6792,
+            "distInMillionsKm": {
+                "fromSun": 227.9,
+                "fromEarth": 78.3
+            },
+            "flybys": "none",
+            "description": "Mars is the fourth planet from the Sun and is the second smallest planet in the solar system. Named after the Roman god of war, Mars is also often described as the “Red Planet” due to its reddish appearance. Mars is a terrestrial planet with a thin atmosphere composed primarily of carbon dioxide."
+        },
+        {
+            "name": "Mercury",
+            "image": "mercury.jpg",
+            "moons": 0,
+            "diameter": 4879,
+            "distInMillionsKm": {
+                "fromSun": 57.91,
+                "fromEarth": 91.69
+            },
+            "flybys": "none",
+            "description": "Mercury is the closest planet to the Sun and due to its proximity it is not easily seen except during twilight. For every two orbits of the Sun, Mercury completes three rotations about its axis and up until 1965 it was thought that the same side of Mercury constantly faced the Sun. Thirteen times a century Mercury can be observed from the Earth passing across the face of the Sun in an event called a transit, the next will occur on the 9th May 2016."
+        },
+        {
+            "name": "Neptune",
+            "image": "neptune.jpg",
+            "moons": 14,
+            "diameter": 49528,
+            "distInMillionsKm": {
+                "fromSun": 4498,
+                "fromEarth": 4348.4
+            },
+            "flybys": "Voyager 2",
+            "description": "Neptune is the eighth planet from the Sun making it the most distant in the solar system. This gas giant planet may have formed much closer to the Sun in early solar system history before migrating to its present position."
+        },
+        {
+            "name": "Saturn",
+            "image": "saturn.jpg",
+            "moons": 62,
+            "diameter": 120536,
+            "distInMillionsKm": {
+                "fromSun": 1428,
+                "fromEarth": 1278.4
+            },
+            "flybys": ["Voyager 1", "Voyager 2"],
+            "description": "Saturn is the sixth planet from the Sun and the most distant that can be seen with the naked eye. Saturn is the second largest planet and is best known for its fabulous ring system that was first observed in 1610 by the astronomer Galileo Galilei. Like Jupiter, Saturn is a gas giant and is composed of similar gasses including hydrogen, helium and methane."
+        },
+        {
+            "name": "Uranus",
+            "image": "uranus.jpg",
+            "moons": 27,
+            "diameter": 51118,
+            "distInMillionsKm": {
+                "fromSun": 2872,
+                "fromEarth": 2722.4
+            },
+            "flybys": "Voyager 2",
+            "description": "Uranus is the seventh planet from the Sun. While being visible to the naked eye, it was not recognised as a planet due to its dimness and slow orbit. Uranus became the first planet discovered with the use of a telescope. Uranus is tipped over on its side with an axial tilt of 98 degrees. It is often described as “rolling around the Sun on its side.”"
+        },
+        {
+            "name": "Venus",
+            "image": "venus.jpg",
+            "moons": 0,
+            "diameter": 12104,
+            "distInMillionsKm": {
+                "fromSun": 108.21,
+                "fromEarth": 41.39
+            },
+            "flybys": "none",
+            "description": "Venus is the second planet from the Sun and is the second brightest object in the night sky after the Moon. Named after the Roman goddess of love and beauty, Venus is the second largest terrestrial planet and is sometimes referred to as the Earth’s sister planet due the their similar size and mass. The surface of the planet is obscured by an opaque layer of clouds made up of sulphuric acid."
+        }
+    ],
+    "dwarfplanets": [
+        {
+            "name": "Ceres",
+            "image": "ceres.jpg",
+            "moons": 0,
+            "diameter": 952.4,
+            "distInMillionsKm": {
+                "fromSun": 413.7,
+                "fromEarth": 264.1
+            },
+            "description": "Ceres is the largest object in the main asteroid belt that lies between the orbits of Mars and Jupiter. With a diameter of 940 km (580 mi), Ceres is both the largest of the asteroids and the only dwarf planet inside Neptune's orbit. It is the 25th-largest body in the Solar System within the orbit of Neptune."
+        },
+        {
+            "name": "Eris",
+            "image": "eris.jpg",
+            "moons": 1,
+            "diameter": 2326,
+            "distInMillionsKm": {
+                "fromSun": 10120,
+                "fromEarth": 9970.4
+            },
+            "description": "Eris is the most massive and second-largest known dwarf planet in the Solar System. Eris was discovered in January 2005 by a Palomar Observatory-based team led by Mike Brown, and its discovery was verified later that year. In September 2006 it was named after the Greco-Roman goddess of strife and discord. Eris is the ninth-most massive known object directly orbiting the Sun, and the sixteenth-most massive overall in the Solar System (including moons). It is also the largest object that has not been visited by a spacecraft. Eris has been measured at 2,326 ± 12 kilometers (1,445 ± 7 mi) in diameter. Its mass is 0.27 percent that of the Earth and 127 percent that of dwarf planet Pluto, though Pluto is slightly larger by volume."
+        },
+        {
+            "name": "Haumea",
+            "image": "haumea.png",
+            "moons": 2,
+            "diameter": 1436,
+            "distInMillionsKm": {
+                "fromSun": 6452,
+                "fromEarth": 6302.4
+            },
+            "description": "Haumea is a dwarf planet located beyond Neptune's orbit. It was discovered in 2004 by a team headed by Mike Brown of Caltech at the Palomar Observatory in the United States and independently in 2005 by a team headed by José Luis Ortiz Moreno at the Sierra Nevada Observatory in Spain, though the latter claim has been contested. On September 17, 2008, it was named after Haumea, the Hawaiian goddess of childbirth, under the expectation by the International Astronomical Union (IAU) that it would prove to be a dwarf planet. It is probably the third-largest known trans-Neptunian object, after Eris and Pluto."
+        },
+        {
+            "name": "Makemake",
+            "image": "makemake.png",
+            "moons": 0,
+            "diameter": 1420,
+            "distInMillionsKm": {
+                "fromSun": 6850,
+                "fromEarth": 6700.4
+            },
+            "description": "Makemake is a likely dwarf planet and perhaps the second largest Kuiper belt object in the classical population, with a diameter approximately two-thirds that of Pluto. Makemake has one known satellite. Its extremely low average temperature, about 40 K (−230 °C), means its surface is covered with methane, ethane, and possibly nitrogen ices."
+        },
+        {
+            "name": "Pluto",
+            "image": "pluto.jpg",
+            "moons": 5,
+            "diameter": 2370,
+            "distInMillionsKm": {
+                "fromSun": 4498,
+                "fromEarth": 4348.4
+            },
+            "description": "Pluto (minor planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It was the first and the largest Kuiper belt object to be discovered. After Pluto was discovered in 1930 it was declared to be the ninth planet from the Sun. Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt, including the dwarf planet Eris. This led the International Astronomical Union (IAU) in 2006 to formally define the term  planet — excluding Pluto and reclassifying it as a dwarf planet"
+        }
+    ],
+    "other": [
+        {
+            "name": "Moon",
+            "image": "moon.jpg",
+            "moons": 0,
+            "diameter": 1737.4,
+            "distInMillionsKm": {
+                "fromSun": 150,
+                "fromEarth": 0.4
+            },
+            "description": "The Moon is the rounded astronomical body that orbits Earth, the third planet in the Solar System, as the planet's only natural satellite. The Moon, which is of planetary mass and a rocky silicate composition, has no significant atmosphere, hydrosphere or magnetic field. Its surface gravity is about one-sixth of Earth's, at 0.1654 g. At an average orbital distance to Earth of 384,402 km (238,856 mi), 1.28 light-seconds or about 10 times Earth's circumference, its gravitational influence produces the planet's tides, and slightly lengthens Earth's day."
+        },
+        {
+            "name": "Sun",
+            "image": "sun.jpg",
+            "moons": 0,
+            "diameter": 2370,
+            "distInMillionsKm": {
+                "fromSun": 0,
+                "fromEarth": 149.60
+            },
+            "description": "The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, heated to incandescence by nuclear fusion reactions in its core, radiating the energy mainly as light and infrared radiation. It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometres (864,000 miles), or 109 times that of Earth, and its mass is about 330,000 times that of Earth. It accounts for about 99.86% of the total mass of the Solar System. Roughly three quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron."
+        }
+    ]
+}
