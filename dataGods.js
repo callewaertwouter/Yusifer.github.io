@@ -1,4 +1,4 @@
-let dataGods = `{
+const dataGods = `{
     "Europe": {
         "Greek": {
             "info": "The number of Greek Gods is huge since the ancient Greeks believed in many deities and spirits. Because knowledge of the world was limited in antiquity, the Ancients were attributing natural phenomena to higher powers. Gods and goddesses could be found everywhere and defined the lives of the people. The twelve gods of Olympus are the most famous ones and were indeed at the center of the ancient Greek religion. However, there were many more than the twelve, and many of them were rulers of the cosmos before the well-known Olympians. Let’s start from the beginning and break down the chaotic family tree of the Greek Gods!",
